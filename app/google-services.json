@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106579984023",
+    "project_id": "argos-tasks",
+    "storage_bucket": "argos-tasks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106579984023:android:191c73b74af175badc33d2",
+        "android_client_info": {
+          "package_name": "dev.jhon0206.argostasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3g72avsjdsNCRPiZ_f30A3YbbeXC7mQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
