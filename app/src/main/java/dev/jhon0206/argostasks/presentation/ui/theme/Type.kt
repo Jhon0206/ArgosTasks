@@ -1,4 +1,4 @@
-package dev.jhon0206.argostasks.ui.theme
+package dev.jhon0206.argostasks.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package dev.jhon0206.argostasks.ui.theme
+package dev.jhon0206.argostasks.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
